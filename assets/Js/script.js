@@ -1,0 +1,1 @@
+const home =  document.getElementsByClassName('main_img');
