@@ -96,8 +96,9 @@ body {
 .hire_work {
     margin-top: 25px;
     display: flex;
-    /* padding-top: 20px; */
-    position: fixed;
+    position: sticky;
+    top: 400px;
+    
 
     .hire {
         margin-right: 20px;
