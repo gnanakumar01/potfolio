@@ -1,6 +1,6 @@
 
 // ================= script.js =================
-const text = ["Full Stack Developer", "React & Django Expert", "UI Lover"];
+const text = ["Full Stack Developer", "React & Django Expert"];
 let i = 0, j = 0, current = "", isDeleting = false;
 
 function type() {
